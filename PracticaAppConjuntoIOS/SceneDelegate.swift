@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  PracticaAppConjuntoIOS
+//  AppConjuntosIOS
 //
-//  Created by Jared Esquivel on 09/11/25.
+//  Created by Jared Esquivel on 02/11/25.
 //
 
 import UIKit
